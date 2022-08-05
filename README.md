@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=getricha&label=Profile%20views&color=0e75b6&style=flat" alt="getricha" /> </p>
 
-- 🔭 I’m currently working on [a Weather App](https://github.com/getRicha/Weather-app)
+- 🔭 I’m currently working on a Wordle clone
 
 - 🌱 I’m currently learning **React & Next.js**
 
-- 📫 How to reach me **richasri2002@gmail.com**
+- 📫 Reach out to me at **richasri2002@gmail.com**
 
-- ⚡ Fun fact **I play chrome dino unhealthy amount of times**
+- ⚡ Fun fact: **I play chrome dino unhealthy amount of times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
