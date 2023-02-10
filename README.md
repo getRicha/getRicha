@@ -25,8 +25,8 @@
 <br></br>
 
 <div align="center" style="display: flex;" width="100%" >
-  <img src="https://github-readme-stats.vercel.app/api?username=getricha&show_icons=true&theme=transparent&locale=en" alt="getricha" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=getricha&theme=blueberry_duo" alt="getricha" />
+  <img src="https://github-readme-stats.vercel.app/api?username=getricha&show_icons=true&theme=transparent&locale=en" alt="getricha" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=getricha&theme=blueberry_duo" alt="getricha" width="40%" height="100%" />
 </div>
 
 <br></br>
