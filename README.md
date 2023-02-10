@@ -24,9 +24,11 @@
 
 <br></br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=getricha&show_icons=true&theme=transparent&locale=en" alt="getricha" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getricha&theme=blueberry_duo" alt="getricha" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=getricha&show_icons=true&theme=transparent&locale=en" alt="getricha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=getricha&theme=blueberry_duo" alt="getricha" />
+</div>
+
+<br></br>
+
+<img align="center" src="https://github.com/getRicha/getRicha/blob/main/dino.gif" width="100%" />
