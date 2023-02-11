@@ -32,4 +32,4 @@
 <br></br>
 
 <img align="center" src="https://github.com/getRicha/getRicha/blob/main/dino.gif#gh-light-mode-only" width="100%" />
-<img align="center" src="https://github.com/getRicha/getRicha/blob/main/dark-dino.gif#gh-dark-mode-only" width="100%" />
+<img align="center" src="https://github.com/getRicha/getRicha/blob/main/transparent-dino.gif#gh-dark-mode-only" width="100%" />
