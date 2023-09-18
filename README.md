@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! I'm Richa 👋</h1>
-<h3 align="center">A 3rd year Computer Science student and a passionate developer from India</h3>
+<h3 align="center">A final year Computer Science student and a passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=getricha&label=Profile%20views&color=0e75b6&style=flat" alt="getricha" /> </p>
 
-- 🔭 I’m currently working on a Wordle clone
+- 🔭 I’m currently working on a blog application
 
 - 🌱 I’m currently learning **React & DSA**
 
